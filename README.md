@@ -4,6 +4,8 @@
 
 ##### 현재 프로젝트 목록
 
+- LineCount
+
 - LocalHub
 
 last update : 2025.05.16
