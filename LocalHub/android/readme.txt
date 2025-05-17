@@ -1,3 +1,4 @@
+# test766 : LocalHub java
 app/manifests/AndroidManifest.xml 수정
 app/java/com.example.lhub/ 에 MainActivity.java 와 Server.java 위치
 app/res/layout/ 생성 후 안에 activity_main.xml 위치
