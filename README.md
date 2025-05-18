@@ -1,4 +1,4 @@
-# APPworks
+# APPworks/kutil6
 
 ### 실사용 목적 애플리케이션
 
@@ -8,4 +8,4 @@
 
 - LocalHub
 
-last update : 2025.05.17
+last update : 2025.05.18
