@@ -1,13 +1,7 @@
-# APPworks/kutil6
+# Kutil6
 
-### 실사용 목적 애플리케이션
+모바일 지원이 확장된 실용 유틸리티 Practical Utility with extended Mobile Support
 
-##### 현재 프로젝트 목록
-
-- LineCount
-
-- LocalHub
-
-- UnitConv
-
-last update : 2025.08.03
+- LocalHub: 로컬 HTTP 서버 텍스트/파일 공유기 Local HTTP text/file Sharer
+- UnitConv: 단위변환과 비밀 텍스트 관리 Unit Conversion and Secret Management
+- LineCount: 코드 규모 계수기 Code Scale Counter
